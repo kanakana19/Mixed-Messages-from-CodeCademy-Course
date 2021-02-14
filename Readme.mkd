@@ -1,0 +1,16 @@
+Hello Visitor!
+I am making this project while attenting a Codecademy course of full stack developeer carreer path.
+It will not have a lot of bells and whistles as it my first project and the requirements are for creating a program the will return at least 3 random wwords/jokes/inspirational quotes, etc.
+Also please bare in mind the it is the first time i use git and github, being very new to this software tool.
+
+Requirements:
+Build a message generator program. Every time a user runs a program, they should get a new, randomized output. You’re welcome to take the project in a couple of different forms, like an astrology generator, inspirational message, or nonsensical jokes. To make your program truly random, the message that it outputs should be made up of at least three different pieces of data.
+
+
+Project plan:
+1. Write 4 arrays, all of them nested. One will contain arrays with strings as sentence templates and other 3 with arrays containing qualities as strings.
+2. Using the javascript methods math.floor and math.random the program will select random elements from our arrays
+3. The code will return a string containing random elements of our arrays.
+
+Please leave a suggestion if you thing i could improve or correct something.
+Have a good day.
